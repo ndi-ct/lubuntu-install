@@ -4,31 +4,31 @@ Eine Bilderstrecke zum Artikel ["Pinguin-Frühling, Linux für alte PCs und Note
 
 Im Live-System angekommen starten Sie die Installation über die Schaltfläche auf dem Desktop namens "Install Lubuntu 22.04 LTS"
 
-![screen01](https://github.com/ndi-ct/lubuntu-install/assets/78471292/bfa2cc0b-56e2-4517-a6d0-0c0d8beeb18f)
+![screen01](https://github.com/ndi-ct/lubuntu-install/assets/78471292/ddcbed70-edca-4e56-a977-2cfd7f8e1a3d)
 
 Der Installationsassistent fordert Sie zunächst dazu auf, eine Sprache zu wählen.
 
-![screen02](https://github.com/ndi-ct/lubuntu-install/assets/78471292/b5ae9b95-1f5d-4455-9b83-829ee01ca594)
+![screen02](https://github.com/ndi-ct/lubuntu-install/assets/78471292/575f2104-c71c-4e84-ac22-75e8b4b6d145)
 
 Tragen Sie im folgenden Schritt Ihre Region und Zeitzone ein.
 
-![screen04](https://github.com/ndi-ct/lubuntu-install/assets/78471292/b4aa32c2-0f36-4441-8ff3-d91fd1ac2eee)
+![screen04](https://github.com/ndi-ct/lubuntu-install/assets/78471292/b3627396-cece-4cb2-a87c-0ad052237e0c)
 
 Wählen Sie dann das korrekte Tastaturlayout. Ob es funtkioniert, können Sie im Eingabefeld ausprobieren. 
 
-![screen05](https://github.com/ndi-ct/lubuntu-install/assets/78471292/70f455bf-ab6b-4ef9-8fb7-776886b5aac2)
+![screen05](https://github.com/ndi-ct/lubuntu-install/assets/78471292/90432781-a90d-4fad-908e-3d027a44ba29)
 
 Beim Partitionieren müssen Sie besonders aufmerksam sein. Wenn Sie Windows (oder ein anderes bestehendes Betriebssystem) verkleinert haben und ein Dual-Boot-System möchten, wählen Sie "Parallel dazu installieren". Mit "Festplatte löschen" beansprucht Lubuntu 22.04 den gesamten verfügbaren Speicherplatz. 
 
-![screen07](https://github.com/ndi-ct/lubuntu-install/assets/78471292/bf1396b8-d9bc-4ca6-8b57-be7a02969c3b)
+![screen07](https://github.com/ndi-ct/lubuntu-install/assets/78471292/f7342028-b3ba-4231-9f0b-95396e2dc536)
 
 Vergeben Sie jetzt einer Benutzernamen, Gerätenamen und ein Passwort. 
 
-![screen08](https://github.com/ndi-ct/lubuntu-install/assets/78471292/f1503e1a-0dea-4117-9398-ae8e09f24a09)
+![screen08](https://github.com/ndi-ct/lubuntu-install/assets/78471292/a0ab9c2d-8c73-47e2-9cb9-ceaca1d216ed)
 
 Bevor der Installier die Partitionierung vornimmt und Daten auf die Festplatte schreibt, fasst er alle auszuführenden Schritte zusammen. Prüfen Sie alle Angaben aufmerksam, bevor Sie die Schaltfläche "Jetzt installieren" anklicken.
 
-![screen10](https://github.com/ndi-ct/lubuntu-install/assets/78471292/c9282375-2a54-4e88-a09f-847a255cfb98)
+![screen09](https://github.com/ndi-ct/lubuntu-install/assets/78471292/3b7f9ee6-6218-4999-a915-53fb050c100a)
 
 Nachdem die Installation durchgelaufen ist, fordert der Assistant Sie auf den USB-Stick für das Live-System zu entfernen und das System neuzustarten. Die Installation ist jetzt abgeschlossen.
 
