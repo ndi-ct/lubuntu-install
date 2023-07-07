@@ -22,11 +22,11 @@ Beim Partitionieren müssen Sie besonders aufmerksam sein. Wenn Sie Windows (ode
 
 ![screen07](https://github.com/ndi-ct/lubuntu-install/assets/78471292/f7342028-b3ba-4231-9f0b-95396e2dc536)
 
-Vergeben Sie jetzt einer Benutzernamen, Gerätenamen und ein Passwort. 
+Vergeben Sie jetzt eine Benutzernamen, Gerätenamen und ein Passwort. 
 
 ![screen08](https://github.com/ndi-ct/lubuntu-install/assets/78471292/a0ab9c2d-8c73-47e2-9cb9-ceaca1d216ed)
 
-Bevor der Installier die Partitionierung vornimmt und Daten auf die Festplatte schreibt, fasst er alle auszuführenden Schritte zusammen. Prüfen Sie alle Angaben aufmerksam, bevor Sie die Schaltfläche "Jetzt installieren" anklicken.
+Bevor der Installer die Partitionierung vornimmt und Daten auf die Festplatte schreibt, fasst er alle auszuführenden Schritte zusammen. Prüfen Sie alle Angaben aufmerksam, bevor Sie die Schaltfläche "Jetzt installieren" anklicken.
 
 ![screen09](https://github.com/ndi-ct/lubuntu-install/assets/78471292/3b7f9ee6-6218-4999-a915-53fb050c100a)
 
